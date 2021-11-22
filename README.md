@@ -1,0 +1,2 @@
+# Weblogic404Memshell
+当找不到任何weblogic路径时打内存马的代码，原理为拦截404请求最开始的代码，通过java agent修改为webshell的逻辑。
